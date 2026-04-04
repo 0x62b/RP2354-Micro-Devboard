@@ -19,7 +19,7 @@ Finished schematic (I'm using the 2350A footprint because they're pin compatible
 ![Finished schematic](images/schematic.png)
 
 Finished PCB\
-![Finished PCB](images/pcb_complete.png.png)
+![Finished PCB](images/pcb_complete.png)
 
 PCB render\
 ![PCB render 1](images/pcb_render1.png)

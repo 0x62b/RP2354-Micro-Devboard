@@ -12,6 +12,9 @@ This is probably just going to be used for some small boards that need an RP2350
 * USB Micro B power/data connection
 * a really REALLY messy PCB routing job (it passed DRC tho so I guess thats something...)
 
+Zine page
+![Zine page](images/zine.png)
+
 Finished schematic (I'm using the 2350A footprint because they're pin compatible)
 ![Finished Schematic](images/schematic.png)
 

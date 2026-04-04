@@ -3,6 +3,8 @@ A devboard based on the RP2354 in a small form factor. It is roughly the size of
 
 This is probably just going to be used for some small boards that need an RP2350 but that I don't want to directly build the MCU into, without having to go acquire a Xiao, supermini, or something like that.
 
+*many of the files are named as RP2350 because that is what I was using before
+
 # Features
 * Based on RP2354A with 2MB onboard flash (small flash is a compromise for small size)
 * 2 layer PCB (this killed my sanity)

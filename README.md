@@ -22,7 +22,8 @@ Finished PCB\
 ![Finished PCB](images/pcb_complete.png)
 
 PCB render\
-![PCB Render](images/pcb_render.png)
+![PCB render 1](images/pcb_render1.png)
+![PCB render 2](images/pcb_render2.png)
 
 JLCPCB order\
 ![JLCPCB order](images/jlcpcb.png)

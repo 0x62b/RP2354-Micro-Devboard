@@ -5262,7 +5262,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 82.55 38.0999 0)
 			(effects
 				(font
@@ -5579,7 +5579,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1uF"
 			(at 158.75 29.2099 0)
 			(effects
 				(font
@@ -5922,7 +5922,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1uF"
 			(at 193.04 29.2099 0)
 			(effects
 				(font
@@ -5992,7 +5992,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1uF"
 			(at 227.33 29.2099 0)
 			(effects
 				(font
@@ -6062,7 +6062,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1kΩ"
 			(at 276.86 35.5599 0)
 			(effects
 				(font
@@ -7170,7 +7170,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1uF"
 			(at 123.19 29.2099 0)
 			(effects
 				(font
@@ -7240,7 +7240,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "27"
+		(property "Value" "27Ω"
 			(at 227.33 55.8799 0)
 			(effects
 				(font
@@ -7310,7 +7310,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "27"
+		(property "Value" "27Ω"
 			(at 234.95 55.8799 0)
 			(effects
 				(font
@@ -7380,7 +7380,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7u"
+		(property "Value" "4.7uF"
 			(at 134.62 29.2099 0)
 			(effects
 				(font
@@ -7516,7 +7516,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1uF"
 			(at 204.47 29.2099 0)
 			(effects
 				(font
@@ -7656,7 +7656,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1uF"
 			(at 181.61 29.2099 0)
 			(effects
 				(font
@@ -7886,7 +7886,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1uF"
 			(at 215.9 29.2099 0)
 			(effects
 				(font
@@ -7956,7 +7956,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 58.42 38.0999 0)
 			(effects
 				(font
@@ -8239,7 +8239,7 @@
 				)
 			)
 		)
-		(property "Value" "33"
+		(property "Value" "33Ω"
 			(at 134.62 49.53 90)
 			(effects
 				(font
@@ -8508,7 +8508,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1uF"
 			(at 170.18 29.2099 0)
 			(effects
 				(font
@@ -8578,7 +8578,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1uF"
 			(at 146.05 29.2099 0)
 			(effects
 				(font

@@ -496,10 +496,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "production/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "RP2350-Micro-Devboard.step",
       "svg": "",
       "vrml": ""
     },

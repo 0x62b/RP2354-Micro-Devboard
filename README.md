@@ -27,3 +27,6 @@ PCB render\
 
 JLCPCB order\
 ![JLCPCB order](images/jlcpcb.png)
+
+LCSC order\
+![LCSC order](images/lcsc.png)

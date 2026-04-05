@@ -1,0 +1,20 @@
+RP2350-Micro-Devboard.csv,,,,,,,,,,LCSC BOM Quotation,,,,,,,,,,,,,,,
+,,,,,,,,,,BOM Date Created：05/04/26 15:54:44,,,,BOM Export Date: 05/04/26 17:32:11,,,,"The matching result is a real-time query result, availability and prices may fluctuate.  
+Backorder items are estimated prices for your reference, please submit ""Create Quote"" to get the real price.
+All information is provided ""as is"" and is subject to change without notice.  Any use made of the information provided is without recourse to LCSC and at the user's risk.",,,,,,,
+,,,,,,,,,,"EST TOTAL :$6.57
+",,,,Website：https://www.lcsc.com/bom,,,,,,,,,,,
+Uploaded data,,,,,,,,,,LCSC Matching Results,,,,,,,,,,,,,,,
+LCSC#,Mfr.,Mrf#,Description,Package,Value,Customer Part Number,Quantity,Target Price(USD),Target Lead Time(Business Days),Mrf#,Mfr.,Order Qty.,Unit Price(USD),Ext.Price(USD),LCSC#,Package,Min,Mult,SPQ,Availability,Stock Status,Customer Notes,Description,Matched status,Product Link
+,,,0.1uF,C_0402_1005Metric,,-,9,,,CC0402KRX7R7BB104,YAGEO,100,0.0010,0.10,C60474,0402,100,100,10000,12680400,In Stock,,100nF ±10% 16V Ceramic Capacitor X7R 0402,Partial Matches,https://www.lcsc.com/product-detail/C60474.html
+,,,27Ω,R_0402_1005Metric,,-,2,,,RC0402FR-0727RL,YAGEO,100,0.0008,0.08,C138021,0402,100,100,10000,133600,In Stock,,27Ω ±1% 62.5mW 0402 Thick Film Resistor,Partial Matches,https://www.lcsc.com/product-detail/C138021.html
+,,,15pF,C_0402_1005Metric,,-,2,,,CL05C150JB5NNNC,Samsung Electro-Mechanics,100,0.0036,0.36,C86285,0402,100,100,10000,291000,In Stock,,15pF ±5% 50V Ceramic Capacitor C0G 0402,Partial Matches,https://www.lcsc.com/product-detail/C86285.html
+,,,1kΩ,R_0402_1005Metric,,-,3,,,RC0402FR-071KL,YAGEO,100,0.0008,0.08,C106235,0402,100,100,10000,5019500,In Stock,,1kΩ 62.5mW 50V Thick Film Resistor ±100ppm/℃ ±1% 0402 Chip Resistor - Surface Mount RoHS,Partial Matches,https://www.lcsc.com/product-detail/C106235.html
+,,,33Ω,R_0402_1005Metric,,-,1,,,RC0402FR-0733RL,YAGEO,100,0.0009,0.09,C138002,0402,100,100,10000,258300,In Stock,,62.5mW 33Ω 50V Thick Film Resistor ±100ppm/℃ ±1% 0402 Chip Resistor - Surface Mount RoHS,Partial Matches,https://www.lcsc.com/product-detail/C138002.html
+,,,USB_B_Micro,USB_Micro-B_Amphenol_10103594-0001LF_Horizontal_modified,,-,1,,,10103594-0001LF,Amphenol,5,0.3956,1.98,C428495,SMD,5,5,1500,26590,In Stock,,"USB-Micro B Receptacle Connector 5 Position Surface Mount, Right Angle",Partial Matches,https://www.lcsc.com/product-detail/C428495.html
+C39051,,,MCP1700x-330xxTT,SOT-23,,-,1,,,MCP1700T-3302E/TT,MICROCHIP,5,0.3762,1.88,C39051,SOT-23,5,5,3000,9525,In Stock,,"3.3V Positive Fixed SOT-23 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS",Exact Matches,https://www.lcsc.com/product-detail/C39051.html
+C41378174,,,RP2354_60QFN,RP2354-QFN-60-1EP_7x7_P0.4mm_EP3.4x3.4mm_ThermalVias,,-,1,,,RP2354A,Raspberry Pi,1,1.4615,1.46,C41378174,QFN-60(7x7),1,1,3000,156,In Stock,,QFN-60(7x7) Microcontrollers RoHS,Exact Matches,https://www.lcsc.com/product-detail/C41378174.html
+,,,GND,TestPoint_Pad_D1.0mm,,,2,,,-(The data has been deleted.),-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+,,,1V1,TestPoint_Pad_D1.0mm,,,1,,,-(The data has been deleted.),-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+C720477,,,SW_Push,SW_Push_SPST_NO_Alps_SKRK,,-,2,,,TS-1088-AR02016,XUNPU,10,0.0541,0.54,C720477,"SMD,4x3mm",10,10,4000,390540,In Stock,,Tactile Switch SPST 160gf 2mm SMD (SMT) Tab 4mm x 3mm Surface Mount,Exact Matches,https://www.lcsc.com/product-detail/C720477.html
+,,,VBUS,TestPoint_Pad_D1.0mm,,,1,,,-(The data has been deleted.),-,-,-,-,-,-,-,-,-,-,-,-,-,-,

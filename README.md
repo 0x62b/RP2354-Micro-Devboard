@@ -7,6 +7,9 @@ This is probably just going to be used for some small boards that need an RP2350
 
 The board is compatible with any firmware written for the Pi Pico/RP2350, as long as they don't use the omitted GPIO pins anyway...
 
+Note! The BOM.csv in project root is the LCSC exported BOM with links, while the BOM list in `production/` is the original 
+KiCad exported BOM
+
 # Features
 * Based on RP2354A with 2MB onboard flash (small flash is a compromise for small size)
 * 2 layer PCB (this killed my sanity)

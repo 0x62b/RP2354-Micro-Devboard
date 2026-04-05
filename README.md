@@ -5,6 +5,8 @@ This is probably just going to be used for some small boards that need an RP2350
 
 *many of the files are named as RP2350 because that is what I was using before
 
+The board is compatible with any firmware written for the Pi Pico/RP2350, as long as they don't use the omitted GPIO pins anyway...
+
 # Features
 * Based on RP2354A with 2MB onboard flash (small flash is a compromise for small size)
 * 2 layer PCB (this killed my sanity)

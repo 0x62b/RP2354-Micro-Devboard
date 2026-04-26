@@ -35,6 +35,4 @@ Extra cost comes from lead-free HASL
 ![JLCPCB order](images/jlcpcb.png)
 
 LCSC order\
-Note to reviewer: there's enough components here to assemble 5 boards. All of them were under MOQ (meaning I couldn't buy less even if I wanted) with the exception of the RP2354.
-By my understanding, this is fine because it fits in the project budget, if not I can cover it myself
 ![LCSC order](images/lcsc.png)

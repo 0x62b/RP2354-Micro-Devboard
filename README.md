@@ -18,7 +18,7 @@ KiCad exported BOM
 * a really REALLY messy PCB routing job (it passed DRC tho so I guess thats something...)
 
 Zine page (yes the render is outdated)\
-![Zine page](images/zine.png)
+![zine page](images/zine.png)
 
 Finished schematic (I'm using the 2350A footprint because they're pin compatible)\
 ![Finished schematic](images/schematic.png)
